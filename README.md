@@ -1,15 +1,25 @@
-<h1>Hi, I'm Jamian! <br/><a href="https://github.com/JamianWorrell">Programmer</a>, <a href="https://www.linkedin.com/in/jamianworrell/">Cybersecurity Professional</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&repeat=false&width=435&lines=HI+My+Name+is+Jamian)](https://git.io/typing-svg)
+
+ 
 
 # 💫 About Me:
 I am currently working on projects to help further my skills in cyber security and cloud ranging from Wireshark, AWS, and Malware Analysis to name a few.
 
+ 
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+
+ 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/JamianWorrell/tcpdumpproject)
 
+ 
+
 <h2>Certifications:</h2>
   - Comptia A+
+
+ 
 
  
 
@@ -20,11 +30,14 @@ I am currently working on projects to help further my skills in cyber security a
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JamianWorrell&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JamianWorrell&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+ 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+ 
+
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jamianworrell) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
