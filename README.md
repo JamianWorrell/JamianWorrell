@@ -10,23 +10,14 @@
 
 <!-- First Section -->
 <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 30px; border-bottom: 1px solid #ccc;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamianWorrell&theme=default&hide_border=true" alt="GitHub Streak">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamianWorrell&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamianWorrell&theme=default&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamianWorrell&theme=default&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
 <!-- Second Section -->
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div align="center" style="margin-bottom: 30px; border-bottom: 1px solid #ccc;">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Centered Image">
-  </div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Centered Image">
 </div>
-
-
-
 <!-- Third Section -->
 <div align="center">
   <h2>🌐 Socials:</h2>
