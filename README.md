@@ -16,9 +16,12 @@
 
 <!-- Second Section -->
 ##
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Centered Image">
-</div>
+</p>
+
+More text about your project and its features.
+
 <!-- Third Section -->
 
 <div align="center">
