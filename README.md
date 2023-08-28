@@ -15,10 +15,12 @@
 </div>
 
 <!-- Second Section -->
+##
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Centered Image">
 </div>
 <!-- Third Section -->
+
 <div align="center">
   <h2>🌐 Socials:</h2>
   <a href="https://linkedin.com/in/www.linkedin.com/in/jamianworrell">
