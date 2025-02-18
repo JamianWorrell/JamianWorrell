@@ -28,13 +28,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamianWorrell&theme=default&hide_border=true" alt="GitHub Streak">
 </p>
-<!-- Second Section -->
-
----
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Centered Image">
-</p>
-
 <!-- Third Section -->
 
 <div align="center">
