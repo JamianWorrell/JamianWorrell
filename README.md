@@ -47,5 +47,4 @@ Just as Neo had to dive into the Matrix to understand its true nature, I believe
 
 <div align="center">
   <h2>🌐 Socials:</h2>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/jamianworrell">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jamianworrell"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
